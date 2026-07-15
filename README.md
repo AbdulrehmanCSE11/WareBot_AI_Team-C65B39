@@ -151,6 +151,4 @@ Same path length across all three, but A* explores far fewer nodes — a direct 
 
 ---
 
-## 📝 License
 
-This project was built for educational purposes as part of a university AI lab assignment.
