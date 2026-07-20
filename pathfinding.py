@@ -1,9 +1,4 @@
-"""
-pathfinding.py
-Robot ke liye 2 points ke darmiyan raasta dhundne wale algorithms.
-Teeno algorithms same output format return karte hain taake compare karna
-aasan ho: {"path": [...], "explored": [...], "runtime": float}
-"""
+
 
 import heapq
 import time
