@@ -1,8 +1,4 @@
-"""
-app.py
-WareBot AI - Automated Warehouse Sorting Robot Simulator
-Main Streamlit UI
-"""
+
 
 import streamlit as st
 import pandas as pd
