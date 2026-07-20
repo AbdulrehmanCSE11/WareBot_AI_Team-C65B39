@@ -1,8 +1,4 @@
-"""
-explain.py
-Generates a simple, human-readable explanation of the robot's decisions -
-what order it picked items in, and what path it took.
-"""
+
 
 
 def generate_explanation(order_strategy, path_algo, route_result, num_items):
