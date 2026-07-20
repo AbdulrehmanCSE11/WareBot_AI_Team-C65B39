@@ -1,10 +1,4 @@
-"""
-route_planner.py
-Robot ko multiple items pick karne hain phir packing station tak pohanchna hai.
-Ye file decide karti hai ke items ko kis order mein visit karna best rahega
-(ye ek chota Traveling-Salesman-style optimization problem hai) aur phir
-har leg (point se point) ke darmiyan actual grid path A*/BFS/Dijkstra se nikalti hai.
-"""
+
 
 import time
 from itertools import permutations
