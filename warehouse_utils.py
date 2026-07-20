@@ -1,14 +1,4 @@
-"""
-warehouse_utils.py
-Warehouse grid banane aur setup karne ke liye functions.
 
-Grid cell codes:
-0 = khali floor (walkable)
-1 = shelf (wall / robot yahan se nahi guzar sakta)
-2 = dock (robot ka start point)
-3 = packing station (robot ka final destination)
-4 = item pickup point (walkable, robot yahan se item utha sakta hai)
-"""
 
 import numpy as np
 import random
