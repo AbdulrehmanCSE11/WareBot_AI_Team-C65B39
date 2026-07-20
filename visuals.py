@@ -1,8 +1,4 @@
-"""
-visuals.py
-Matplotlib se warehouse grid draw karta hai: shelves, items, dock, station,
-explored cells, aur robot ka final combined route.
-"""
+
 
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
